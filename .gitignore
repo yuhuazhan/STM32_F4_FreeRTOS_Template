@@ -45,3 +45,5 @@ Debug/*
 
 # other
 Git Bash.lnk
+probe*
+.settings/*
